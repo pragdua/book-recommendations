@@ -39,6 +39,7 @@ h1 {
   border: 2px solid rgb(66, 154, 255);
   padding: 2rem;
   border-radius: 10px;
+  margin-bottom: 20px;
 }
 .book-name {
   color: rgb(66, 154, 255);
